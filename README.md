@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qamar Zaid Mohammed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 I'm Qamar Zaid Mohammed. I'm from Mumbai, India pursuing Bachelor of Engineering Computer Science from Pune University.
  I'm interested in Python, C++, Web developing, Artificial Inteligence. Trying to Explore more and skill up myself.
  
