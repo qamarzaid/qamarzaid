@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qamar Zaid Mohammed</h1>
 <h3 align="center">A passionate developer from India</h3>
 I'm Qamar Zaid Mohammed. I'm from Mumbai, India pursuing Bachelor of Engineering Computer Science from Pune University.
- I'm interested in Python, C++, Web developing, Artificial Inteligence. Trying to Explore more and skill up myself.
+ I'm interested in Python, C++, Web developing, Artificial Inteligence, Machine Learning. Trying to Explore more and skill up myself.
  
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qamarzaid&label=Profile%20views&color=0e75b6&style=flat" alt="qamarzaid" /> </p>
